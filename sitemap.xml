@@ -3,17 +3,25 @@
     <url>
         <loc>https://blog.nomadanarchy.online/</loc>
         <lastmod>2026-09-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
     </url>
     <url>
         <loc>https://blog.nomadanarchy.online/category/guides/</loc>
         <lastmod>2026-09-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://blog.nomadanarchy.online/posts/how-to-join-eaglercraft/</loc>
         <lastmod>2026-09-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://blog.nomadanarchy.online/posts/how-to-join-java-edition/</loc>
         <lastmod>2026-09-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
 </urlset>
