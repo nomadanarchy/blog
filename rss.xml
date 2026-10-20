@@ -6,7 +6,7 @@
         <description>Guides and updates for the Nomad Anarchy Minecraft server.</description>
         <language>en-us</language>
         <atom:link href="https://blog.nomadanarchy.online/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 29 Sep 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 00:00:00 GMT</lastBuildDate>
         <item>
             <title>How to join on Eaglercraft</title>
             <link>https://blog.nomadanarchy.online/posts/how-to-join-eaglercraft/</link>
@@ -20,6 +20,14 @@
             <link>https://blog.nomadanarchy.online/posts/how-to-join-java-edition/</link>
             <description>Add the server in the Minecraft Java launcher.</description>
             <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+            <guid isPermaLink="true">https://blog.nomadanarchy.online/posts/how-to-join-java-edition/</guid>
+            <category>Guides</category>
+        </item>
+        <item>
+            <title>Voting unlocks anvil formatting</title>
+            <link>https://blog.nomadanarchy.online/posts/voting-unlocks-anvil-formatting/</link>
+            <description>Voting on Nomad Anarchy now unlocks permanent anvil formatting codes..</description>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
             <guid isPermaLink="true">https://blog.nomadanarchy.online/posts/how-to-join-java-edition/</guid>
             <category>Guides</category>
         </item>
